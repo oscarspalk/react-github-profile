@@ -1,0 +1,36 @@
+.repo-container{
+    display: flex !important;
+    position: relative !important;
+    flex-direction: column !important;
+    width: 40% !important;
+    height: 200px !important;
+    padding: 20px !important;
+    border: 2px solid #3A3E3B !important;
+    border-radius: 7px !important;
+    margin: 20px !important;
+    min-width: 250px !important;
+    text-decoration: none !important;
+    transition: 0.3s;
+    
+
+}
+.repo-container:hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
+.repo-title{
+    color: #3A3E3B;
+}
+
+.repo-description{
+    color: #313532;
+    margin-bottom: 30px;
+   font-size: larger; 
+}
+.repo-language{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: #3a1c38; margin: 15px;
+    font-weight: 900;
+}

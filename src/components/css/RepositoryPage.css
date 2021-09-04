@@ -1,0 +1,25 @@
+.contributor{
+    display: flex;
+    height: 100px;
+    width: 210px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #3A3E3B;
+}
+.contributor:hover{
+    cursor: pointer;
+}
+
+
+
+.con-pic{
+    margin: 10px;
+    width: 60px;
+    border-radius: 50%;
+}
+.con-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
