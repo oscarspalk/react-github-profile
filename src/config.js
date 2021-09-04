@@ -1,5 +1,5 @@
 var config = {};
 
-config.username = "oscarspalk"
+config.username = "YOUR NAME HERE" // your name here
 
 module.exports = config;
